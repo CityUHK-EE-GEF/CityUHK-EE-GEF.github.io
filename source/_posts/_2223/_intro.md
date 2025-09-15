@@ -1,0 +1,74 @@
+---
+title: About
+date: 2022-04-08 00:00:00
+---
+
+![](images/2022gef.jpeg)
+## Introduction
+The AIoT Coding, Engineering and Entrepreneurial (CE2) Skills Education for Gifted Students Programme aims to equip the gifted students with knowledge and hands-on problem solving, coding, engineering abilities in Artificial Intelligence Internet of Things (AIoT), and  Entrepreneurship including math knowledge, software and hardware programming skills, engineering skills, and entrepreneurial skills.
+
+
+We hope that via this programme, students can gain experience in AI programming, IoT device development cycle (especially hardware programming such as FPGA, with applications to AIoT),  developing a business plan, and delivering a pitch ,with the aids of university mentors.
+
+
+
+## Programme objectives
+- To provide gifted students with knowledge of foundation mathematics for use in artificial intelligence (AI) and Python programming for development of relevant applications;
+- To equip students with engineering skills and experiences, through practical and projects, to design and implement AI models and also the Internet of Things (IoT) devices by using advanced hardware and software utilised in the industry;
+- To provide an opportunity for students to demonstrate their creativity and talents by presenting their designs to representatives of technology companies and other participants in a large-scale event;
+- To nurture positive values and attitudes among students such as ethical use of AIoT for the well-being of mankind and perseverance to overcome problems; 
+- To develop a business plan, and to learn how to deliver a start-up pitch; and
+- To develop students’ abilities and relevant experiences needed to turn an idea into a seed project in the start-up ecosystem.
+
+
+
+## Timeline
+|  Date Time   | Contents  |
+|  :--------: | ----  |
+|11 Jun 2022 (Sat)<br>10:00am – 12:00pm|Foundational Guest Lectures on AI    |
+|18 Jun 2022 (Sat)<br>10:00am – 12:00pm |Getting familiar with the coding environment, GitHub and StackOverflow|
+|25 June 2022 (Sat)<br>10:00am – 12:00pm |Foundational Guest Lectures on IoT   |
+|2 Jul 2022 (Sat)<br>10:00am – 12:00pm |Introduction to Python Programming 1 (postponed due to typhoon)|
+|9 Jul 2022 (Sat)<br>10:00am – 12:00pm |Foundational Guest Lectures on Entrepreneurship & Business Planning -  Hong Kong and Global Start-up Ecosystem    |
+|16 Jul 2022 (Sat)<br>10:00am – 12:00pm |Introduction to Python Programming 1|
+|23 Jul 2022 (Sat)<br>10:00am – 12:00pm |Foundational Guest Lectures on Entrepreneurship & Business Planning -  Incubation, Seed Fund, Angel Fund     |
+|30 Jul 2022(Sat)<br>10:00am – 12:00pm|Introduction to Python Programming 2|
+|6 Aug 2022 (Sat)<br>10:00am – 12:00pm|Foundational Guest Lectures on Entrepreneurship & Business Planning -  Intellectual Property Protection|
+|13 Aug 2022 (Sat)<br>10:00am – 12:00pm|Advanced Python Programming I – NumPy|
+|20 Aug 2022 (Sat)<br>10:00am – 12:00pm |Foundational Guest Lectures on Entrepreneurship & Business Planning -  Business Plan writing |
+|27 Aug 2022 (Sat)<br>10:00am – 12:00pm|Lab session: Linear regression using NumPy|
+|3 Sep 2022 (Sat)<br>10:00am – 12:00pm|Advanced Python Programming II – Pandas|
+|10 Sep 2022 (Sat)<br>10:00am – 12:00pm|Introduction to Artificial Intelligence|
+|17 Sep 2022 (Sat)<br>10:00am – 12:00pm|Supervised Learning in Details|
+|24 Sep 2022 (Sat)<br>10:00am – 12:00pm|Introduction to the Fashion MNIST Dataset and Data Pre-processing|
+|8 Oct 2022 (Sat)<br>10:00am – 12:00pm|Deep Neural Network Model and Its Training|
+|15 Oct 2022 (Sat)<br>10:00am – 12:00pm|Lab session1: Data Analysis and Pre-processing with Fashion MNIST Dataset Lab session2: Image Recognition with Fashion MNIST Dataset using TensorFlow|
+|22 Oct 2022 (Sat)<br>10:00am – 12:00pm|Convolutional Neural Network (CNN) |
+|29 Oct 2022 (Sat)<br>10:00am – 12:00pm|Lab session: Improve Prediction Accuracy with CNN|
+|5 Nov 2022 (Sat)<br>10:00am – 12:00pm|Overfitting and Regularizations|
+|12 Nov 2022 (Sat)<br>10:00am – 12:00pm|Lab session: Avoid Overfitting and Further Improve Prediction Accuracy with Regularization Techniques |
+|19 Nov 2022 (Sat)<br>10:00am – 12:00pm|Basic FPGA design using Python Productivity for ZYNQ (PYNQ) 1    |
+|26 Nov 2022 (Sat)<br>10:00am – 12:00pm|Basic FPGA design using Python Productivity for ZYNQ (PYNQ) 2  |
+|3 Dec 2022 (Sat)<br>10:00am – 12:00pm|Basic FPGA design using Python Productivity for ZYNQ (PYNQ) 3|
+|10 Dec 2022 (Sat)<br>10:00am – 12:00pm|Basic FPGA design using Python Productivity for ZYNQ (PYNQ) 4|
+|17 Dec 2022 (Sat)<br>10:00am – 12:00pm|Quantised Neural Network (QNN)  |
+|7 Jan 2023 (Sat)<br>10:00am – 12:00pm|Lab session: Deploying the QNN to the PYNQ Board |
+|14 Jan 2023 (Sat)<br>10:00am – 12:00pm|AI Internet of Things (AIoT) design |
+|21 Jan 2023 (Sat)<br>10:00am – 12:00pm|Lab session: Embedded System Design   |
+|28 Jan 2023 (Sat)<br>10:00am – 12:00pm|Mentorship meeting briefing session + first time meetup    |
+|4 Feb, <br>11 Feb 2023(Sat)<br>10:00am – 12:00pm|Bi-weekly meeting with mentors from CityU EE  |
+|Feb 2023 – Mar 2023 |Students’ projects exhibition and pitching/judging |
+
+
+
+
+## Contact Information
+Address: Department of Electrical Engineering
+
+City University of Hong Kong
+
+83 Tat Chee Avenue,
+
+Phone: +(852) 3442-7740
+
+Fax: +(852) 3442-0562
