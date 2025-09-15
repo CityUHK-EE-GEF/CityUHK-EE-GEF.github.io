@@ -9,7 +9,6 @@ tags:
 password: edgeaiotm202409
 
 
-
 ---
 ## Video Recording
 <div><iframe src="https://drive.google.com/file/d/1R2BVh9d3ZV8VOWc_xU50pPYBKhGn-HWR/preview" width="640" height="480" allow="autoplay"></iframe></div>
