@@ -297,7 +297,7 @@
 </tbody></table>
 <h2 id="Contact-Information"><a href="#Contact-Information" class="headerlink" title="Contact Information"></a>Contact Information</h2><p>Department of Electrical Engineering</p>
 <p>City University of Hong Kong</p>
-<p>Email: <a href="mailto:&#x65;&#101;&#x67;&#x65;&#102;&#112;&#x40;&#x63;&#105;&#116;&#121;&#117;&#x2e;&#x65;&#100;&#117;&#x2e;&#104;&#107;">&#x65;&#101;&#x67;&#x65;&#102;&#112;&#x40;&#x63;&#105;&#116;&#121;&#117;&#x2e;&#x65;&#100;&#117;&#x2e;&#104;&#107;</a></p>
+<p>Email: <a href="mailto:&#x65;&#x65;&#x67;&#x65;&#102;&#x70;&#64;&#99;&#x69;&#x74;&#x79;&#117;&#x2e;&#x65;&#x64;&#x75;&#46;&#104;&#107;">&#x65;&#x65;&#x67;&#x65;&#102;&#x70;&#64;&#99;&#x69;&#x74;&#x79;&#117;&#x2e;&#x65;&#x64;&#x75;&#46;&#104;&#107;</a></p>
 
       </div>
       
@@ -313,29 +313,6 @@
 
           </div>
           
-
-<script>
-  window.addEventListener('tabs:register', () => {
-    let { activeClass } = CONFIG.comments;
-    if (CONFIG.comments.storage) {
-      activeClass = localStorage.getItem('comments_active') || activeClass;
-    }
-    if (activeClass) {
-      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
-      if (activeTab) {
-        activeTab.click();
-      }
-    }
-  });
-  if (CONFIG.comments.storage) {
-    window.addEventListener('tabs:click', event => {
-      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
-      let commentClass = event.target.classList[1];
-      localStorage.setItem('comments_active', commentClass);
-    });
-  }
-</script>
-
         </div>
           
   
