@@ -813,25 +813,5 @@
 
   
 
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.css">
-
-<script>
-NexT.utils.loadComments(document.querySelector('#gitalk-container'), () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js', () => {
-    var gitalk = new Gitalk({
-      clientID    : '4f43a951854102c63208',
-      clientSecret: 'b0149e173742c019dfa63cd45384375bc0d0b380',
-      repo        : 'cityueegef.github.io',
-      owner       : 'cityueegef',
-      admin       : ['cityueegef'],
-      id          : '8a6c36c03013d5a9bc4eb8d750cb02af',
-        language: 'en',
-      distractionFreeMode: true
-    });
-    gitalk.render('gitalk-container');
-  }, window.Gitalk);
-});
-</script>
-
 </body>
 </html>
